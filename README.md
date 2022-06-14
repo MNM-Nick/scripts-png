@@ -1,2 +1,2 @@
-# scripts-by-others
-these are scrips I snipped by others that I will build onto and create my own take from it.
+# scripts-png
+images of scrips that i forgot to backup
